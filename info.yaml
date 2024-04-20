@@ -1,0 +1,105 @@
+---
+general:
+  chapter:
+    en: Ordinary Differential Equations
+    he: משוואות דיפרנציאליות רגילות
+    #ar: المعادلات التفاضلية العادية Something wrong with the default fonts
+    ar:
+  part:
+    en: Tel Aviv University
+    something: 
+    he: אוניברסיטת תל־אביב
+    #ar: جامعة تل أبيب Something wrong with the default fonts
+    ar:
+  course:
+    period:
+      word:
+        en: Course Period
+        he: תקופת הקורס
+      dates:
+        en: 31.12.2023–15.03.2024
+        he: ה׳תשפ׳׳ד, סמסטר א׳
+  paper:
+    paper: &papersize a4
+  lecturer:
+    name:
+      en: Prof Sensei
+      he: פרופ׳
+    email: professor@uni.com
+    position:
+      en: Lecturer
+      he: מרצה
+  teacher:
+    name:
+      en: Mr John Doe
+      he: מר
+    position:
+      en: Teaching Assistant
+      he: מתרגל
+    email: ta@uni.com
+    reception:
+      name:
+        en: Reception Hours
+        he: שעת קבלה
+      time:
+        en: Wednesday, 13:00–14:00. Schreiber building, room 309
+        he: יום רביעי, מ־13:00 עד 14:00, בניין שרייבר, חדר 309
+    pdf_info: >-
+            This document has been produced using the experimental
+            Typst v.0.11.0 typesetting engine.
+  activity_types:
+    Plan:
+      activity_name: Plan
+      display_sols: true
+      paper: *papersize
+    HW:
+      activity_name: Homework
+      display_sols: false
+      paper: *papersize
+    HW-Sols:
+      activity_name: Homework. Solutions
+      display_sols: true
+      paper: *papersize
+    Class:
+      activity_name: Class Notes
+      display_sols: true
+      paper: *papersize
+    Exam:
+      activity_name: Texts
+      display_sols: false
+      paper: *papersize
+    Exam-Sols:
+      activity_name: Solutions
+      display_sols: true
+      paper: *papersize    
+  link:
+    word:
+      en: Link
+      he: קישור
+'03':
+  num: 3
+  name: Linear Differential Equations
+  Plan:
+    num_symb: ''
+    date:
+      en: 10:10–11:00, 15.01.2024
+      he: ה׳ בִּשְׁבָט ה׳תשפ׳׳ד
+    link: mfraiman.cc/link-to-file
+  Class:
+    num_symb: ''
+    date:
+      en: 10:10–11:00, 15.01.2024
+      he: ה׳ בִּשְׁבָט ה׳תשפ׳׳ד
+    link: mfraiman.cc/link-to-file
+  HW:
+    num_symb: "½"
+    date:
+      en: 15.01.2024–31.01, 23:59:00
+      he: ''
+    link: mfraiman.cc/link-to-file
+  HW-Sols:
+    num_symb: "½"
+    date:
+      en: 15.01.2024–31.01, 23:59:00
+      he: ''
+      link: mfraiman.cc/link-to-file
