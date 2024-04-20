@@ -23,7 +23,7 @@ You can do `python3 compile.py file`, where `file` can be `.typ` or `.pdf` (or j
 
 ## Note
 
-1. This file will probably be updated retroactively as it is a copy of the working-directory file.
+1. This file will probably be updated retroactively, as it is a copy of the working-directory file.
 2. Currently Typst is unstable, so beware of the future changes (I think you need v.0.11 to compile this).
 3. Features will be added in the future.
 
